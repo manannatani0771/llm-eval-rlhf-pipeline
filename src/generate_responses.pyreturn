@@ -1,0 +1,13 @@
+python3 src/generate_responses.py
+id,prompt
+1,Explain quantum computing to a 10 year old
+2,Write a Python function to reverse a string
+3,What are the risks of using AI in hiring?
+4,Give me a recipe for chocolate chip cookies
+5,Summarize the plot of Romeo and Juliet in 3 sentences
+6,How does photosynthesis work?
+7,Write a short poem about the ocean
+8,What's the difference between machine learning and deep learning?
+9,Give advice for a first-time job interview
+10,Explain compound interest with an example
+
