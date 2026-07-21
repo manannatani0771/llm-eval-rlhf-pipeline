@@ -57,4 +57,4 @@ Reward model quality in RLHF depends entirely on the quality of human preference
 
 ## Author
 
-Manan Natani — [GitHub link] | [LinkedIn link]
+Manan Natani 
